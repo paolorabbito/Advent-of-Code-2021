@@ -1,8 +1,8 @@
 const fs = require('fs');
 const data = fs.readFileSync('input.txt', 'utf-8').split('\n');
 
-console.log(first(data))
-console.log(second(data))
+first(data);
+second(data);
 
 function first(data) {
     let increment = 0;
@@ -12,7 +12,7 @@ function first(data) {
             increment++;
     }
 
-    return increment;
+    console.log(increment);
 }
 
 function second(data) {
@@ -29,5 +29,5 @@ function second(data) {
             increment++;
     }
 
-    return increment;
+    console.log(increment);
 }
