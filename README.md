@@ -11,7 +11,7 @@ Advent of Code 2021 🎄 JavaScript Solutions by
 | ✔ [Day 3: Binary Diagnostic]| 🌟 | 🌟 |
 | ✔ [Day 4: Giant Squid]| 🌟 | 🌟 |
 | ✔ [Day 5: Hydrothermal Venture]| 🌟 | |
-| [Day 6: ]| | |
+| ✔ [Day 6: Lanternfish]| 🌟 | 🌟 |
 | [Day 7: ]| | |
 | [Day 8: ]| | |
 | [Day 9: ]| | |
