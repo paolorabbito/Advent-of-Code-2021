@@ -4,6 +4,7 @@ const data = fs.readFileSync('input.txt', 'utf-8').split('\n');
 first(data);
 second(data);
 
+
 function first(data) {
 
     let gamma = '';
