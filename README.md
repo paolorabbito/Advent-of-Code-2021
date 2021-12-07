@@ -12,7 +12,7 @@ Advent of Code 2021 🎄 JavaScript Solutions by
 | ✔ [Day 4: Giant Squid]| 🌟 | 🌟 |
 | ✔ [Day 5: Hydrothermal Venture]| 🌟 | |
 | ✔ [Day 6: Lanternfish]| 🌟 | 🌟 |
-| [Day 7: ]| | |
+| ✔ [Day 7: The Treachery of Whales]| 🌟 | 🌟 |
 | [Day 8: ]| | |
 | [Day 9: ]| | |
 | [Day 10: ]| | |
