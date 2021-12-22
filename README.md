@@ -13,8 +13,8 @@ Advent of Code 2021 🎄 JavaScript Solutions by
 | ✔ [Day 5: Hydrothermal Venture]| 🌟 | |
 | ✔ [Day 6: Lanternfish]| 🌟 | 🌟 |
 | ✔ [Day 7: The Treachery of Whales]| 🌟 | 🌟 |
-| [Day 8: ]| | |
-| [Day 9: ]| | |
+| ✔ [Day 8: Seven Segment Search]| 🌟 | 🌟 |
+| ✔ [Day 9: Smoke Basin]| 🌟 | |
 | [Day 10: ]| | |
 | [Day 11: ]| | |
 | [Day 12: ]| | |
